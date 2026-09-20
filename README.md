@@ -154,6 +154,8 @@ The goal of this project is to demonstrate how **Power BI can be used to transfo
 
 ## screenshots/demos
 
+https://github.com/vadlaarun/Global-Post-COVID-Inflation-Dashboard/blob/main/Screenshot%202026-09-20%20083806.png
+
 
 
 
